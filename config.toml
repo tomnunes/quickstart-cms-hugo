@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "pt-BR"
+title = "Astrocentro"
+theme = "ananke"
+
+
+
+[menu]
+
+[[menu.main]]
+	identifier = "Tarot"
+	name = "Tarot"
+	pre = "<i class='fa fa-heart></i>"
+	url = "/tarot"
+	weight = -110
+
+[[menu.main]]
+	name = "getting started"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
+    weight = -100
