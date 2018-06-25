@@ -1,5 +1,5 @@
 ---
-title: As fases da Lua Nova em 2019 e os benefícios que o astro traz
+title: As fases da Lua Nova em 2019 e os beneficios que o astro traz
 date: '2018-05-29T12:11:40-03:00'
 draft: true
 autoThumbnailImage: true
