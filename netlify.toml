@@ -1,7 +1,7 @@
 [build]
-  base    = "site"
-  publish = "site/output"
+  base    = "content"
+  publish = "content/output"
   command = "nikola build"
 
 [build.environment]
-  HUGO_VERSION = "0.41"
+  HUGO_VERSION = "0.42"

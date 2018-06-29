@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "pt-BR"
 title = "Astrocentro"
 theme = "ananke"
+
+[[menu.main]]
+	name = "Post"
+	url = "/post"
+	weight = 1
