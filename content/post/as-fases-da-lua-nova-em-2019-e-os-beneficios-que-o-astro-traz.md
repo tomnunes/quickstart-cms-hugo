@@ -1,7 +1,7 @@
 ---
 title: As fases da Lua Nova em 2019 e os beneficios que o astro traz
 date: '2018-05-29T12:11:40-03:00'
-draft: true
+
 autoThumbnailImage: true
 ---
 A Lua é um astro muito importante para o nosso planeta. Isso porque esse corpo celestial possui uma grande influência sobre nossas vidas, tornando o conhecimento sobre ela essencial para quem quer alcançar o sucesso. Mas qual a relação das fases da Lua Nova em 2019 com quem deseja realizar os sonhos nesse próximo ano?
